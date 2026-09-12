@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<jpackage-state version="17.0.19" platform="windows">
+  <app-version>3.0.0.0</app-version>
+  <main-launcher>WorldPainter Languages</main-launcher>
+  <signed>false</signed>
+  <add-launcher>WorldPainter-Update</add-launcher></jpackage-state>

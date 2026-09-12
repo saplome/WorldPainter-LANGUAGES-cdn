@@ -1,0 +1,2 @@
+# Do not let git normalise anything: the updater verifies SHA-256 of the served bytes.
+* -text
